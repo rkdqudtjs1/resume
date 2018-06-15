@@ -40,16 +40,17 @@
     - 기간 : 2018.03 ~ 2018.06
     - 참여인원 : 4 명
     - 개발환경 : Windows 10
-    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `SpringBoot`, `JPA`, `QueryDsl`, `MariaDB`, `HTML/SCSS`, `element-ui`, `pdf-vue`, `pdfjs-dis`
+    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `SpringBoot`, `Maven`, `JPA`, `QueryDsl`, `MariaDB`, `HTML/SCSS`, `element-ui`, `pdf-vue`, `pdfjs-dis`
     - 내용
       - `Vue`를 이용한 사용자 페이지, 블록체인 문서(PDF) 뷰 페이지 개발
       - API 추가, 수정
+      - UI 관련 문서 관리
   - ECO SOLUTION
     - 개요 : 스마트 팜 에코솔루션 시작품 소프트웨어 1차년도
     - 기간 : 2018.04 ~ 2018.06
     - 참여인원 : 1 명
     - 개발환경 : Windows 10
-    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `SpringBoot`, `JPA`, `QueryDsl`, `JPQL`, `MariaDB`, `HTML/SCSS`, `element-ui`
+    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `SpringBoot`, `Gradle`, `JPA`, `QueryDsl`, `JPQL`, `MariaDB`, `HTML/SCSS`, `element-ui`
     - 내용
       - `Vue`를 이용한 사용자 페이지 개발
       - DB 설계, API 설계 및 개발
