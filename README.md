@@ -30,7 +30,7 @@
     - 기간 : 2017.08 ~ 2018.03
     - 참여인원 : 3 명
     - 개발환경 : Windows 10
-    - 기술스택 : `Java`, `Javascript`, `JQuery`, `React`, `JPA`, `Mybatis`, `PostgreSQL`, `HTML/CSS`
+    - 기술스택 : `Java`, `Maven`, `Javascript`, `JQuery`, `React`, `JPA`, `Mybatis`, `PostgreSQL`, `HTML/CSS`
     - 내용
       - `React`를 이용한 대시보드, 랜딩페이지, 문서인쇄 템플릿 개발
       - UI 관련 문서 관리
@@ -40,7 +40,7 @@
     - 기간 : 2018.03 ~ 2018.06
     - 참여인원 : 4 명
     - 개발환경 : Windows 10
-    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `SpringBoot`, `Maven`, `JPA`, `QueryDsl`, `MariaDB`, `HTML/SCSS`, `element-ui`, `pdf-vue`, `pdfjs-dis`
+    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `Java`, `SpringBoot`, `Maven`, `JPA`, `QueryDsl`, `MariaDB`, `HTML/SCSS`, `element-ui`, `pdf-vue`, `pdfjs-dis`
     - 내용
       - `Vue`를 이용한 사용자 페이지, 블록체인 문서(PDF) 뷰 페이지 개발
       - API 추가, 수정
@@ -50,7 +50,7 @@
     - 기간 : 2018.04 ~ 2018.06
     - 참여인원 : 1 명
     - 개발환경 : Windows 10
-    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `SpringBoot`, `Gradle`, `JPA`, `QueryDsl`, `JPQL`, `MariaDB`, `HTML/SCSS`, `element-ui`
+    - 기술스택 : `Vue`, `Vuex` ,`ECMAScript2015`, `Java`, `SpringBoot`, `Gradle`, `JPA`, `QueryDsl`, `JPQL`, `MariaDB`, `HTML/SCSS`, `element-ui`
     - 내용
       - `Vue`를 이용한 사용자 페이지 개발
       - DB 설계, API 설계 및 개발
