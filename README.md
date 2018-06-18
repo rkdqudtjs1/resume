@@ -56,6 +56,13 @@
       - DB 설계, API 설계 및 개발
       - API 문서, 개발 문서 관리
 
+# 개인프로젝트
+
+  - 모넬로 키즈카페 천안점
+    - 개요 : 모넬로 키즈카페 천안점 웹사이트
+    - 주소 : http://monello-cheonan.com/#/
+    - 기술스택 : `React`, `ECMAScript2015`, `Firebase Realtime Database`, `HTML/CSS`, `express`
+    
 # 교육
 
 - ITWILL (2016.02 ~ 2016.08)
