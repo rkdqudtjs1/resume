@@ -11,7 +11,8 @@
 
 # 경력
 
-- 비바엔에스 (2017.07~)
+- GARAGE (2019.01 ~)
+- 비바엔에스 (2017.07 ~ 2019.01)
 
 # 학력
 
@@ -56,13 +57,33 @@
       - DB 설계, API 설계 및 개발
       - API 문서, 개발 문서 관리
 
+### GARAGE 플랫폼 개발팀
+
+- 프로젝트
+  - GAdjet
+    - 개요 : 코워킹 스페이스 운영에 최적화 된 서비스
+    - 기간 : 2019.01 ~ 진행중
+    - 참여인원 : 6 명
+    - 개발환경 : macOs
+    - 기술수택 : `Vue`, `Vuex`, `Express`, `Sequelize`, `App Engine`, `Mysql`, `Vuetify`, `HTML/SASS`
+    - 내용
+      - 코워킹 스페이스 운영사를 위한 ERP
+      - 코워킹 스페이스 사용자를 위한 커뮤니티 페이지
+      - `Express`, `Sequelize`를 사용한 API 개발
+
 # 개인프로젝트
 
-  - 모넬로 키즈카페 천안점
-    - 개요 : 모넬로 키즈카페 천안점 웹사이트
-    - 주소 : http://monello-cheonan.com/#/
-    - 기술스택 : `React`, `ECMAScript2015`, `Firebase Realtime Database`, `HTML/CSS`, `express`
-    
+- 모넬로 키즈카페 천안점
+
+  - 개요 : 모넬로 키즈카페 천안점 웹사이트
+  - 주소 : http://monello-cheonan.com/#/
+  - 기술스택 : `React`, `ECMAScript2015`, `Firebase Realtime Database`, `HTML/CSS`, `express`
+
+- evresume
+  - 개요 : 웹 기반 이력서, 포트폴리오 관리 서비스
+  - 기간 : 2019.01 ~
+  - 기술스택 : `Vue`, `Vuex`, `Firebase(Firestore)`, `HTML/SASS`
+
 # 교육
 
 - ITWILL (2016.02 ~ 2016.08)
