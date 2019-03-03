@@ -65,7 +65,7 @@
     - 기간 : 2019.01 ~ 진행중
     - 참여인원 : 6 명
     - 개발환경 : macOs
-    - 기술수택 : `Vue`, `Vuex`, `Express`, `Sequelize`, `App Engine`, `Mysql`, `Vuetify`, `HTML/SASS`
+    - 기술수택 : `Vue`, `Vuex`, `Express`, `Sequelize`, `Google App Engine`, `Mysql`, `Vuetify`, `HTML/SASS`
     - 내용
       - 코워킹 스페이스 운영사를 위한 ERP
       - 코워킹 스페이스 사용자를 위한 커뮤니티 페이지
@@ -79,7 +79,7 @@
   - 주소 : http://monello-cheonan.com/#/
   - 기술스택 : `React`, `ECMAScript2015`, `Firebase Realtime Database`, `HTML/CSS`, `express`
 
-- evresume
+- everesume
   - 개요 : 웹 기반 이력서, 포트폴리오 관리 서비스
   - 기간 : 2019.01 ~
   - 기술스택 : `Vue`, `Vuex`, `Firebase(Firestore)`, `HTML/SASS`
