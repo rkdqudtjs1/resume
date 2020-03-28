@@ -6,13 +6,12 @@
 - 생년월일 : 1992.01.28
 - 성별 : 남
 - 연락처 : 010-3135-4413
-- 병역사항 : 육군 병장 전역
 
 # 경력
 
-- GARAGE (2019.01 ~)
-- 비바엔에스 (2017.07 ~ 2019.01)
 - 지랩스 (2019.01 ~ )
+- 비바엔에스 (2017.07 ~ 2019.01)
+
 
 # 학력
 
@@ -20,6 +19,24 @@
 - 천안 쌍용고등학교 졸업 (2007.02 ~ 2010.02)
 
 # 세부경력
+
+## 지랩스 개발팀
+- 개발팀장 (2019.07 ~ )
+- 프로젝트
+  - GAdjet
+    - 개요 : 공유 오피스 관리, 운영 플랫폼
+    - 기간 : 2019.01 ~ 진행중
+    - 참여인원 : 6 명
+    - 개발환경 : macOs
+    - 기술스택 : `Vue`, `Vuex`, `Express`, `Sequelize`, `Google App Engine`, `Mysql`, `Vuetify`, `HTML/SASS`, `PG연동`
+    - 내용
+      - 공유오피스 운영 자동화
+      - 청구서 발송, 이용료 결제, 크레딧 시스템, 회의실 예약, etc...
+      - `node.js`, `Express`, `Sequelize`를 이용한 API 개발
+      - `Google App Engine` 서버관리
+      - github actions
+      - 플랫폼 외부 홍보영업
+
 
 ## 비바엔에스 개발팀
 
@@ -57,22 +74,6 @@
       - DB 설계, API 설계 및 개발
       - API 문서, 개발 문서 관리
 
-## 지랩스 개발팀
-- 개발팀장 (2019.07 ~ )
-- 프로젝트
-  - GAdjet
-    - 개요 : 공유 오피스 관리, 운영 플랫폼
-    - 기간 : 2019.01 ~ 진행중
-    - 참여인원 : 6 명
-    - 개발환경 : macOs
-    - 기술스택 : `Vue`, `Vuex`, `Express`, `Sequelize`, `Google App Engine`, `Mysql`, `Vuetify`, `HTML/SASS`
-    - 내용
-      - 코워킹 스페이스 운영사를 위한 ERP
-      - 코워킹 스페이스 사용자를 위한 커뮤니티 페이지
-      - `Express`, `Sequelize`를 사용한 API 개발
-      - github flow 도입
-      - 
-
 # 개인프로젝트
 
 - 모넬로 키즈카페 천안점
@@ -80,8 +81,3 @@
   - 개요 : 모넬로 키즈카페 천안점 웹사이트
   - 주소 : http://monello-cheonan.com/#/
   - 기술스택 : `React`, `ECMAScript2015`, `Firebase Realtime Database`, `HTML/CSS`, `express`
-
-# 교육
-
-- ITWILL (2016.02 ~ 2016.08)
-  - JAVA, MySQL, MyBatis, Spring, HTML, JSP, JSON, Bootstrap, j-Query, Ajax, Android
