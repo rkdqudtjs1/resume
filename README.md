@@ -12,12 +12,6 @@
 - 지랩스 (2019.01 ~ )
 - 비바엔에스 (2017.07 ~ 2019.01)
 
-
-# 학력
-
-- 청주대학교 졸업 (2010.03 ~ 2016.02)
-- 천안 쌍용고등학교 졸업 (2007.02 ~ 2010.02)
-
 # 세부경력
 
 ## 지랩스 개발팀
@@ -35,15 +29,16 @@
       - 이용자용 어플리케이션 (드랍인 이용 가능 장소 조회, 컨텐츠 조회, 시간단위 테이블 예약)
       - 사장님용 어플리케이션 (예약관리, 리뷰관리)
      - 랜딩페이지
-      - https://dropin.so (유저용)
-      - https://ceo.dropin.so (사장님용)
+        - 이용자 https://dropin.so
+        - 사장님 https://ceo.dropin.so
      - 어플리케이션
-      - 사장님
-        https://play.google.com/store/apps/details?id=com.glabs.dropin.host
-        https://apps.apple.com/kr/app/id1532180492
-      - 유저
-        https://play.google.com/store/apps/details?id=com.glabs.dropin.user
-        https://apps.apple.com/kr/app/id1532180402
+        - 이용자
+          https://play.google.com/store/apps/details?id=com.glabs.dropin.user
+          https://apps.apple.com/kr/app/id1532180402
+        - 사장님
+          https://play.google.com/store/apps/details?id=com.glabs.dropin.host
+          https://apps.apple.com/kr/app/id1532180492
+
   - GAdjet
     - 개요 : 공유 오피스 관리, 운영 플랫폼
     - 기간 : 2019.01 ~
@@ -101,3 +96,8 @@
   - 개요 : 모넬로 키즈카페 천안점 웹사이트
   - 주소 : http://monello-cheonan.com/#/
   - 기술스택 : `React`, `ECMAScript2015`, `Firebase Realtime Database`, `HTML/CSS`, `express`
+
+# 학력
+
+- 청주대학교 졸업 (2010.03 ~ 2016.02)
+- 천안 쌍용고등학교 졸업 (2007.02 ~ 2010.02)
