@@ -29,15 +29,17 @@
       - 이용자용 어플리케이션 (드랍인 이용 가능 장소 조회, 컨텐츠 조회, 시간단위 테이블 예약)
       - 사장님용 어플리케이션 (예약관리, 리뷰관리)
      - 랜딩페이지
-        - 이용자 https://dropin.so
-        - 사장님 https://ceo.dropin.so
+        - 이용자 
+          - https://dropin.so
+        - 사장님 
+          - https://ceo.dropin.so
      - 어플리케이션
         - 이용자
-          https://play.google.com/store/apps/details?id=com.glabs.dropin.user
-          https://apps.apple.com/kr/app/id1532180402
+          - https://play.google.com/store/apps/details?id=com.glabs.dropin.user
+          - https://apps.apple.com/kr/app/id1532180402
         - 사장님
-          https://play.google.com/store/apps/details?id=com.glabs.dropin.host
-          https://apps.apple.com/kr/app/id1532180492
+          - https://play.google.com/store/apps/details?id=com.glabs.dropin.host
+          - https://apps.apple.com/kr/app/id1532180492
 
   - GAdjet
     - 개요 : 공유 오피스 관리, 운영 플랫폼
