@@ -23,10 +23,31 @@
 ## 지랩스 개발팀
 - 개발팀장 (2019.07 ~ )
 - 프로젝트
+  - 드랍인
+    - 개요 : 와인바, 공유오피스, 레스토랑, 카페 등 가게의 비어있는 테이블을 필요한 사람에게 시간단위로 대여하는 플랫폼
+    - 기간 : 2020.09 ~ 
+    - 참여인원 : 1명
+    - 개발환경 : macOs
+    - 기술스택 : `React`, `ReactNative`, `Redux`, `Redux-Saga`, `Nextjs`, `Typescript`, `GAE`, `Sequelize`, `Mysql`
+    - 내용
+      - 랜딩페이지, 관리자 페이지
+      - 지도 기반 유저 장소 추천 서비스
+      - 이용자용 어플리케이션 (드랍인 이용 가능 장소 조회, 컨텐츠 조회, 시간단위 테이블 예약)
+      - 사장님용 어플리케이션 (예약관리, 리뷰관리)
+     - 랜딩페이지
+      - https://dropin.so (유저용)
+      - https://ceo.dropin.so (사장님용)
+     - 어플리케이션
+      - 사장님
+        https://play.google.com/store/apps/details?id=com.glabs.dropin.host
+        https://apps.apple.com/kr/app/id1532180492
+      - 유저
+        https://play.google.com/store/apps/details?id=com.glabs.dropin.user
+        https://apps.apple.com/kr/app/id1532180402
   - GAdjet
     - 개요 : 공유 오피스 관리, 운영 플랫폼
-    - 기간 : 2019.01 ~ 진행중
-    - 참여인원 : 6 명
+    - 기간 : 2019.01 ~
+    - 참여인원 : 4 명
     - 개발환경 : macOs
     - 기술스택 : `Vue`, `Vuex`, `Express`, `Sequelize`, `Google App Engine`, `Mysql`, `Vuetify`, `HTML/SASS`, `PG연동`
     - 내용
@@ -35,7 +56,6 @@
       - `node.js`, `Express`, `Sequelize`를 이용한 API 개발
       - `Google App Engine` 서버관리
       - github actions
-      - 플랫폼 외부 홍보영업
 
 
 ## 비바엔에스 개발팀
