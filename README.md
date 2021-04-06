@@ -38,7 +38,7 @@
         - 예약 조회, 결제취소, 운영시간 관리, 장소 사진 및 데이터 수정 조회
       - 서버
         - node, express, sequelize, mysql, typescript
-        - google cron 활용 스케쥴러 (정산 자동화, 예약 선점 관리, 이용안내 발송(fcm, 카카오알림톡, sms))
+        - google cron 활용 스케쥴링 (정산 자동화, 예약 선점 관리, 이용안내 발송(fcm, 카카오알림톡, sms))
 
   - GAdjet
     - 개요 : 공유 오피스 관리, 운영 플랫폼
