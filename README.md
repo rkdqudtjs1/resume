@@ -31,14 +31,15 @@
       - 관리자 페이지
         - 운영을 위한 데이터 조회, 추가, 수정 및 대시보드
       - 유저용 앱 (https://play.google.com/store/apps/details?id=com.glabs.dropin.user, https://apps.apple.com/kr/app/id1532180402)
-        - ReactNative, redux, typescript
+        - ReactNative, redux, redux-saga, typescript
         - google analytics, google crashlytics 장애 모니터링, fcm, 카카오 알림톡, sms
         - geolocation 활용 주변 장소 조회, 지역 별 장소 검색, 즐겨찾기, 카카오페이 및 토스페이 결제, 카카오 및 애플 로그인, 쿠폰
       - 사장님 앱 (https://play.google.com/store/apps/details?id=com.glabs.dropin.host, https://apps.apple.com/kr/app/id1532180492)
         - 예약 조회, 결제취소, 운영시간 관리, 장소 사진 및 데이터 수정 조회
       - 서버
-        - node, express, sequelize, mysql, typescript
+        - node, express, sequelize, mysql, typescript, jwt
         - google cron 활용 스케쥴링 (정산 자동화, 예약 선점 관리, 이용안내 발송(fcm, 카카오알림톡, sms))
+
 
   - GAdjet
     - 개요 : 공유 오피스 관리, 운영 플랫폼
