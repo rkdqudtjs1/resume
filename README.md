@@ -48,16 +48,15 @@
     - 기술스택 : `React`, `ReactNative`, `Redux`, `Redux-Saga`, `Nextjs`, `Typescript`, `GAE`, `Sequelize`, `Mysql`
     - 내용
       - 서비스 기획부터 개발, 영업 출시까지 담당
-      - 서비스 중이며 앱스토어 또는 플레이스토어에 `드랍인` 검색 시 노출
-      - 랜딩페이지 (https://dropin.so, https://ceo.dropin.so)
+      - 랜딩페이지
         - Nextjs, SEO, 구글 서치 콘솔, 네이버 웹마스터, google analytics, facebook pixel
       - 관리자 페이지
         - 운영을 위한 데이터 조회, 추가, 수정 및 대시보드
-      - 유저용 앱 (https://play.google.com/store/apps/details?id=com.glabs.dropin.user, https://apps.apple.com/kr/app/id1532180402)
+      - 유저용 앱
         - ReactNative, redux, redux-saga, typescript
         - google analytics, google crashlytics 장애 모니터링, fcm, 카카오 알림톡, sms
         - geolocation 활용 주변 장소 조회, 지역 별 장소 검색, 즐겨찾기, 카카오페이 및 토스페이 결제, 카카오 및 애플 로그인, 쿠폰
-      - 사장님 앱 (https://play.google.com/store/apps/details?id=com.glabs.dropin.host, https://apps.apple.com/kr/app/id1532180492)
+      - 사장님 앱
         - 예약 조회, 결제취소, 운영시간 관리, 장소 사진 및 데이터 수정 조회
       - 서버
         - node, express, sequelize, mysql, typescript, jwt
