@@ -10,18 +10,34 @@
 
 # 경력
 
-- 지랩스 (2019.01 ~ )
+- StradVision (2022.04 ~ )
+- 지랩스 (2019.01 ~ 2022.03)
 - 비바엔에스 (2017.07 ~ 2019.01)
 
 # 세부경력
 
-## 지랩스 개발팀
+## StradVision / Software Toolchain Team
+
+- Frontend-Engineer  (2022.04 ~ )
+- 프로젝트
+
+  - MLOps Data Pipeline
+    - 사물 인식 Network 학습 효율성 증대를 위한 Data Pipeline 구현
+    - 데이터 수집, 추출, 검증, 샘플링, 학습, 평가 단계로 나눠지는 Data Pipeline 중 데이터 추출, 검증, 샘플링의 기획 및 UI 구현
+    - 사용기술: react, redux, typescript, react-query, axios, docker, docker-compose, github-actions, github-packages
+    
+  - Frontend UI Library
+    - Atomic Design 기반 컴포넌트 개발
+    - Table, Input, Modal, DatePicker, QueryBuilder, DateRangePicker, ...
+    - https://stradvision.github.io/soul
+    - 사용기술: storybook, react, typescript, material-ui, github-pages, github-packages
+
+## 지랩스 / 개발팀
 
 - 팀장 (2019.07 ~ )
 - 프로젝트
-
   - GADJET(GAdjet 2.0)
-
+  
     - 개요 : 공유오피스 관리, 운영 플랫폼인 GAdjet의 리뉴얼 버전
     - 기간 : 2021.07 ~
     - 참여인원 : 2 명
@@ -71,7 +87,7 @@
       - 전자계약서 생성, 전자서명, 크레딧 시스템, 회의실 예약, 데이터 접근 기록 로그, websocket 활용 채팅, amchart 활용 대시보드
       - 팝빌 연동(세금계산서, 현금영수증), PG연동(이니시스)
 
-## 비바엔에스 개발팀
+## 비바엔에스 / 개발팀
 
 - 주요담당업무 : Front-end
 
